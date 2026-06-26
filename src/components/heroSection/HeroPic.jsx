@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 import { PiHexagonThin } from "react-icons/pi";
-import heroPic from "../../images/hero-pic.jpeg"; // ✅ Import image
+import heroPic from "../../images/hero-pic.JPEG";
 
 const HeroPic = () => {
   return (
